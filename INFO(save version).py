@@ -1,7 +1,7 @@
 fa= open("BENİ OKU.txt", "w")
 fa.write("""Aradığınız INFOlar 'info.txt' dosyasına kaydedilecektir
 
-Bu Uygulama Emir Ali ATEŞ tarafından yazılmıştır.
+Bu Uygulama Emyounoone tarafından yazılmıştır.
 
 """)
 
